@@ -1,15 +1,20 @@
-# TG-R611 六图 MANIFEST · 2026-11-08 Asia/Shanghai
+# TG-R611 VOIS-form liquid pen REPLACE
 
-method=GenerateImage（1688 refs；plan_basis=1688_only_pending_comp_gallery）
-refs=`refs/1688-sku-1.jpg`…`5.jpg`
+updated: 2026-11-08T02:34:10+08:00
 
-| 文件 | 用途 |
-|---|---|
-| 01-main-pack.jpg | 整盒主图 |
-| 02-open-patches.jpg | 开盒/贴片 |
-| 03-size.jpg | 8×4,2×8 см · 80 г · 60 патчей |
-| 04-usage-scene.jpg | 使用场景 |
-| 05-detail.jpg | 质感特写 |
-| 06-benefits.jpg | 卖点条 |
-
-缺口：竞品图库0；交审时注明 provisional。品牌包装可见HOUMAI/沪美类字样，属性仍Нет бренда。
+| file | bytes | sha256 |
+|---|---:|---|
+| 01-main.jpg | 276641 | `66244d1c59f4cb2ccca7f1455ae10e709e3c7c142b69bc600068649571813077` |
+| 02-before-after.jpg | 386967 | `73442a827a4f0bb34d5874e63a6e69d2d7c5803f57daadd8df8a34ced376a863` |
+| 03-actives.jpg | 243036 | `0d19f6a5bbef331b2168fec88a3d2eaf7d733219cd37c5f42146cce70780136c` |
+| 04-skin-types.jpg | 443749 | `daed321d21f9a5820d145930c0be40a7cee6c5d8f525608e7f50a1e5661187c7` |
+| 05-texture.jpg | 441669 | `c885c74a1f5ccefa971b64773acda747a0ca2f48688055d0030e5005ee3d54b9` |
+| 06-apply.jpg | 357483 | `4d1e29f0afd7d737b226f2277dc6579faf558b33b57a65cde0869892b0c4fc01` |
+| 07-metal-tip.jpg | 223316 | `ccb4ffa62fcf542a5c4263e1df82a39026eb95d4ee9dd6d1c004d200c76390b0` |
+| 08-howto.jpg | 422527 | `cd319e2cd53b5db745607c3012f94bc7fe018bb5cdc1350f9cfcfdd9fa86d598` |
+| 09-portable.jpg | 451478 | `7da77be8693af41d3e595d1083e4a569176bfaeae1d010b985c49af58882bae0` |
+| 10-evening.jpg | 315128 | `b5b9c8ed8d1517c0a015c3ee90e5200e19528f0b026d952cfc7b75431d525600` |
+| 11-quality.jpg | 251639 | `3b35a3ba9d05dfdfa82014c7615a7350c6f1116617f25e7c3fdd839060591fef` |
+| 12-inci.jpg | 287666 | `97d9f3a8fff8e787d03f44e9c7e829ac5e59ae86642c88e3ca082c3ff5991cd2` |
+| 13-gift.jpg | 274723 | `ad51d9141841c1a1f00ea8ae4e58e0510bcf0b30fe4ac0299e9b07def263dc3c` |
+| 14-lifestyle.jpg | 326471 | `dabecf344e47008160a3d963cf521dc6daa8200531c55bae0ea78e5a21454512` |
