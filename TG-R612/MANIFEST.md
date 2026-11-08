@@ -1,13 +1,17 @@
-# TG-R612 六图 MANIFEST · 2026-11-08 Asia/Shanghai
+# TG-R612 CDN · REPLACE 蓝蝶 DIY 相框 8imgs
 
-method=GenerateImage（1688 refs；plan_basis=1688_only_pending_comp_gallery）
-禁 Мир Вышивки。
+updated=2026-11-08 Asia/Hong_Kong
+offer=848807500072 【蓝色蝴蝶浅蓝底】材料包+相框
+brand=Нет бренда
+old=archived to _hold-old-christmas-cdn-20261108/
 
-| 文件 | 用途 |
+| # | file |
 |---|---|
-| 01-main-pack.jpg | 套件主包装 |
-| 02-kit-contents.jpg | 展开内容 |
-| 03-size.jpg | 尺寸标注 |
-| 04-usage-scene.jpg | 手工场景 |
-| 05-detail.jpg | 布纹特写 |
-| 06-benefits.jpg | 卖点条 |
+| 01 | 01-main.jpg |
+| 02 | 02-hero-detail.jpg |
+| 03 | 03-kit-contents.jpg |
+| 04 | 04-size-frame.jpg |
+| 05 | 05-angle-lifestyle.jpg |
+| 06 | 06-process-or-alt.jpg |
+| 07 | 07-variant-or-detail.jpg |
+| 08 | 08-benefits.jpg |
